@@ -1,4 +1,4 @@
-# [Argon React Native](https://creativetimofficial.github.io/argon-react-native/docs/#) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Argon%20React%20Native,%20a%20cool%20Argon%20React%20Native%20App%20Template%20%E2%9D%A4%EF%B8%8F%20https%3A//bit.ly/2KAj86H%20%23reactnative%20%23argon%20%23designsystem%20%23developers%20via%20%40CreativeTim)
+# [Based on Argon React Native](https://creativetimofficial.github.io/argon-react-native/docs/#) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Argon%20React%20Native,%20a%20cool%20Argon%20React%20Native%20App%20Template%20%E2%9D%A4%EF%B8%8F%20https%3A//bit.ly/2KAj86H%20%23reactnative%20%23argon%20%23designsystem%20%23developers%20via%20%40CreativeTim)
 
 Argon React Native is a fully coded app template built over [Galio.io](https://galio.io/?ref=creativetim), [React Native](https://facebook.github.io/react-native/?ref=creativetim) and [Expo](https://expo.io/?ref=creativetim) to allow you to create powerful and beautiful e-commerce mobile applications. We have redesigned all the usual components in Galio to make it look like Argon's Design System, minimalistic and easy to use.
 
@@ -26,6 +26,15 @@ Let us know your thoughts below. And good luck with development!
 
 ## Documentation
 The documentation for the Argon React Native is hosted at our [website](https://demos.creative-tim.com/argon-react-native/docs/).
+
+
+## Installation
+
+Make sure you have npm/yarn installed. After you've installed any of those, install expo by writing the following in your terminal console: npm install -g expo-cli (or yarn global add expo-cli , whichever you prefer).
+
+Now you're all set up. Navigate your way into the project's directory and write npm install or yarn install. This will install all dependencies that Argon React Native needs in order to function properly.
+
+Now write expo start and you're ready to go. A new window will pop-up in your default browser. This is your localhost's dashboard. Open up your favorite text editor/IDE and an Android/iOS simulator.
 
 
 ## File Structure
