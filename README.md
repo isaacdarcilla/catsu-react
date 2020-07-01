@@ -43,7 +43,7 @@ Now write expo start and you're ready to go. A new window will pop-up in your de
 Within the download you'll find the following directories and files:
 
 ```
-argon-react-native/
+catsu-react/
 ├── App.js
 ├── README.md
 ├── app.json
@@ -82,9 +82,4 @@ argon-react-native/
 ```
 
 
-## OS Support
-
-At present, we officially aim to support the last two versions of the following operating systems:
-
-[<img src="https://raw.githubusercontent.com/creativetimofficial/ct-material-kit-pro-react-native/master/assets/android-logo.png" width="60" height="60" />](https://www.creative-tim.com/product/material-kit-pro-react-native)[<img src="https://raw.githubusercontent.com/creativetimofficial/ct-material-kit-pro-react-native/master/assets/apple-logo.png" width="60" height="60" />](https://www.creative-tim.com/product/material-kit-pro-react-native)
 
