@@ -19,7 +19,7 @@ The documentation for the Argon React Native is hosted at our [website](https://
 
 ## Installation
 
-Make sure you have npm/yarn installed. After you've installed any of those, install expo by writing the following in your terminal console: npm install -g expo-cli (or yarn global add expo-cli , whichever you prefer).
+Make sure you have `npm/yarn` installed. After you've installed any of those, install `expo` by writing the following in your terminal console: `npm install -g expo-cli` or `yarn global add expo-cli`.
 
 Now you're all set up. Navigate your way into the project's directory and write npm install or yarn install. This will install all dependencies that Argon React Native needs in order to function properly.
 
