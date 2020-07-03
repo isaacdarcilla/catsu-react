@@ -52,7 +52,7 @@ catsu-react/
 
 ```
 
-## Developer
+## 💡 Developer
 
 Developed by Isaac [(facebook.com/isaacdarcilla)](https://web.facebook.com/isaacdarcilla)
 
