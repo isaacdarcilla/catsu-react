@@ -56,11 +56,11 @@ catsu-react/
 
 Developed by Isaac [(facebook.com/isaacdarcilla)](https://web.facebook.com/isaacdarcilla)
 
-## Support
+## 🔔 Support
 
 Fork or star this repository for support.
 
-## Issues and Pull Requests
+## 🔕 Issues and Pull Requests
 
 Not accepting any issues and pull requests. 
 
